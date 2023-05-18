@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhishekiiitbh2903.github.io/portfolio/](https://abhishekiiitbh2903.github.io/portfolio/)
 
-- 📝 I regularly write articles on [GFG](GFG)
+- 📝 I regularly write articles on [LeetCode]
 
 - 💬 Ask me about **Web development , Coding**
 
