@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhi22728815" target="blank"><img src="https://img.shields.io/twitter/follow/abhi22728815?logo=twitter&style=for-the-badge" alt="abhi22728815" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development , BlockChain Tech**
+- 🌱 I’m currently learning **Web Development , Data Science**
 
 - 👨‍💻 All of my projects are available at [https://abhishekiiitbh2903.github.io/portfolio/](https://abhishekiiitbh2903.github.io/portfolio/)
 
