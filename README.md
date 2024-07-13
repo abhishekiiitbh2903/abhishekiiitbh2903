@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/OyGx.gif)](https://github.com/abhishekiiitbh2903)
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A Data Scientist in making</h3>
-<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvk2002&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvk2002" /> </p>
 
