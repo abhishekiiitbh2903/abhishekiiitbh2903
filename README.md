@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced DL Concepts**
 
-- 💬 Ask me about **Pytorch, AgenticAI, Reinforcement Learning**
+- 💬 Ask me about **Pytorch, Agentic AI, Reinforcement Learning**
 
 - 📫 Reach out to me at **abhisheksingh.iiitbh@gmail.com**
 
