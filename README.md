@@ -1,5 +1,5 @@
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
-<h1 align="center">Hi,I'm <a href="https://meabhishekrathore.netlify.app/"> Abhishek Singh </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> </h1>
+<h1 align="center">Hi, I'm <a href="https://meabhishekrathore.netlify.app/"> Abhishek Singh </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> </h1>
 <h3 align="center">Data Scientist @Crosslynx US LLC</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Advanced DL Concepts**
 
-- 💬 Ask me about **Tensorflow, GenAI**
+- 💬 Ask me about **Pytorch, AgenticAI, Reinforcement Learning**
 
-- 📫 Reach out to me at **abhishekrathore1806@gmail.com**
+- 📫 Reach out to me at **abhisheksingh.iiitbh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
